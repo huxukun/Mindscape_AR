@@ -136,3 +136,13 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# 本地 Unity 安装包（不纳入版本管理）
+/Unity6.3LTS/
+
+# 个人第二大脑导出数据（本地生成，不入库）
+/[Aa]ssets/StreamingAssets/ar-data/
+/[Aa]ssets/StreamingAssets/ar-data.meta
+
+# 编辑器与智能体本地配置
+/.trae/
